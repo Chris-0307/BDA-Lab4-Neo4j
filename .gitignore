@@ -1,0 +1,5 @@
+.env
+*.log
+__pycache__/
+.ipynb_checkpoints/
+labs/lab4-neo4j/data/
